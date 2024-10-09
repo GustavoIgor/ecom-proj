@@ -1,2 +1,2 @@
-insert into product (name, desc, brand, price, category, release_date, available, quantity) values
-('Saco de Terra Adubada 5kg', '30 x 25 x 10 cm 5 quilogramas', 'Terra Nobre', 12.00, 'Substrato', '2024-10-05', true, 10);
+/*insert into product (name, desc, brand, price, category, release_date, available, quantity) values
+('Saco de Terra Adubada 5kg', '30 x 25 x 10 cm 5 quilogramas', 'Terra Nobre', 12.00, 'Substrato', '2024-10-05', true, 10);*/
